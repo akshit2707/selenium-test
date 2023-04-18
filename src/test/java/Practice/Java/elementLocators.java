@@ -11,7 +11,7 @@ public class elementLocators {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.chrome.driver","C:\\ChromeDriver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","/Users/akshit2707/Downloads/chromedriver_mac64/chromedriver");
 		WebDriver driver=new ChromeDriver();
 		
 		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
