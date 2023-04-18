@@ -1,1 +1,1 @@
-# this is a selenium test file. Do not clone 
+# this is a selenium test repo. DO NOT CLONE
